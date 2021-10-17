@@ -1,10 +1,10 @@
 # SoubaChain
 
-##** The Problems
+##** The Problems **
 
 Le développement d’une nation passe par une population bien nourrit et en bonne santé. Dans beaucoup de pays d’Afrique de l’Ouest et particulièrement au Bénin le poisson constitue 39.5% des sources de protéine et nous importons d’après les chiffres de direction des pêches plus de 150 000 tonnes (47% de poisson de mère, 33.6 pour la réexportation et le reste pour les poissons d’eau douce) chaque année. Face à cela, une modique production locale évaluer à 50 000 tonnes par an. Si notre production nationale est aussi faible, c’est parce que l’activité est vue comme non rentable et cela est maintenue par des techniques de production archaïques.
 
-##** Solution
+##** Solution **
 
 Notre solution optimise la pisciculture en réduisant les erreurs humaines grâce au dispositif électronique autonome que nous avons fabriqué qui nourrit et assure automatiquement la qualité de l’eau d’élevage. La solution est un appareil connecté a internet et qui déploie continuellement les informations d’élevage à travers notre Blockchain. 
 De manière plus descriptive, chaque dispositif est un NFT dans le réseau, il est donc unique et correspond à un éleveur. Il permet à travers elle de remonter les informations sur le milieu d’élevage, la localisation géographique, la qualité de la nourriture du poisson ; tout le nécessaire pour suivre à distance l’éleveurs et ça production. C’est information sont envoyer directement dans notre base de donner et certifier à travers des transaction (dans une sous blockchain). Il permettra au client final de pays à travers les jetons de la blockchain les informations d’un éleveur (représenté par des NFT) d’une période précise pour être sûr de la qualité du poisson acheter. Il permet aussi aux éleveurs de payer pour obtenir une certification BIO ou des certifications de confiance ou des contrats à travers la blockchain avec des acheteurs de poisson sans avoir à se déplacer ou fournir des documents. 
